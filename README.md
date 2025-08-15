@@ -23,4 +23,4 @@ All problems are from [Beecrowd](https://judge.beecrowd.com/en/profile/1091161) 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone: https://github.com/always-mohammad-ali/C-Problem-Solving.git
+   git clone: https://github.com/always-mohammad-ali/CSE115-NSU.git
